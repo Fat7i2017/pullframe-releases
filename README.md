@@ -4,7 +4,7 @@ PullFrame is a polished desktop app for saving supported public media links thro
 
 Latest macOS version: **PullFrame 0.3.3**
 
-Current working Windows beta: **PullFrame 0.3.0 Beta**
+Current Windows beta: **PullFrame 0.3.3 Windows Beta**
 
 ## Download
 
@@ -15,20 +15,20 @@ https://github.com/Fat7i2017/pullframe-releases/releases/latest
 Current recommended release assets:
 
 ```text
-macOS latest:      PullFrame-0.3.3.dmg
-Windows working:   PullFrame-0.3.0-Beta-Windows.zip
+macOS latest:    PullFrame-0.3.3.dmg
+Windows beta:    PullFrame-0.3.3-Windows.zip
 ```
 
 Direct downloads:
 
 - macOS latest: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.3/PullFrame-0.3.3.dmg
-- Windows working beta: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.0-beta/PullFrame-0.3.0-Beta-Windows.zip
+- Windows beta: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.3-windows-beta/PullFrame-0.3.3-Windows.zip
 
 ## Windows status
 
-The only confirmed working Windows build right now is **PullFrame 0.3.0 Beta**.
+The current confirmed working Windows build is **PullFrame 0.3.3 Windows Beta**.
 
-Use this Windows ZIP until the next rebuilt Windows release is published. Any newer Windows test package should be ignored unless it is clearly marked as the new confirmed working Windows release.
+Use this Windows ZIP for Windows. Extract it first, then run `PullFrame.exe` from the extracted folder.
 
 ## Install on macOS
 
@@ -42,7 +42,7 @@ PullFrame is not Apple-notarized yet, so macOS may show a first-open security wa
 
 ## Install on Windows
 
-1. Download `PullFrame-0.3.0-Beta-Windows.zip`.
+1. Download `PullFrame-0.3.3-Windows.zip`.
 2. Extract the ZIP first.
 3. Open the extracted folder.
 4. Run `PullFrame.exe` from inside the extracted folder.
@@ -60,7 +60,7 @@ Do not run PullFrame from inside the ZIP preview. Extract it first so Windows ca
 
 ## Updates
 
-PullFrame checks this public releases repository for updates. The current macOS public release is 0.3.3. The current confirmed working Windows beta is 0.3.0 Beta until the next Windows rebuild is published.
+PullFrame checks this public releases repository for updates. The current macOS public release is 0.3.3. The current confirmed working Windows beta is 0.3.3 Windows Beta.
 
 ## Bundled Tools
 
