@@ -14,13 +14,13 @@ Direct release assets for PullFrame 0.3.3:
 
 ```text
 macOS:   PullFrame-0.3.3.dmg
-Windows: PullFrame-0.3.3.exe
+Windows: PullFrame-0.3.3-Windows.zip
 ```
 
 Direct downloads:
 
 - macOS: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.3/PullFrame-0.3.3.dmg
-- Windows: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.3/PullFrame-0.3.3.exe
+- Windows: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.3/PullFrame-0.3.3-Windows.zip
 
 ## Install on macOS
 
@@ -34,12 +34,13 @@ PullFrame is not Apple-notarized yet, so macOS may show a first-open security wa
 
 ## Install on Windows
 
-1. Download `PullFrame-0.3.3.exe`.
-2. Open the EXE file.
-3. If Windows SmartScreen appears, choose **More info**, then **Run anyway** only if you downloaded it from this official release repository.
-4. Use PullFrame normally from the app window.
+1. Download `PullFrame-0.3.3-Windows.zip`.
+2. Extract the ZIP first.
+3. Open the extracted folder.
+4. Run `PullFrame.exe` from inside the extracted folder.
+5. If Windows SmartScreen appears, choose **More info**, then **Run anyway** only if you downloaded it from this official release repository.
 
-The Windows build is available from the same GitHub Release as the macOS build.
+Do not run PullFrame from inside the ZIP preview. Extract it first so Windows can access the included app files correctly.
 
 ## What PullFrame Does
 
