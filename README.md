@@ -1,30 +1,45 @@
 # PullFrame
 
-PullFrame is a polished macOS app for saving supported public media links through a clean local workflow.
+PullFrame is a polished desktop app for saving supported public media links through a clean local workflow.
 
-Latest version: **PullFrame 0.3.0**
+Latest version: **PullFrame 0.3.3**
 
 ## Download
 
-Download the latest DMG from the Releases page:
+Download the latest version from the Releases page:
 
 https://github.com/Fat7i2017/pullframe-releases/releases/latest
 
-Release asset:
+Direct release assets for PullFrame 0.3.3:
 
 ```text
-PullFrame.dmg
+macOS:   PullFrame-0.3.3.dmg
+Windows: PullFrame-0.3.3.exe
 ```
+
+Direct downloads:
+
+- macOS: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.3/PullFrame-0.3.3.dmg
+- Windows: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.3/PullFrame-0.3.3.exe
 
 ## Install on macOS
 
-1. Download `PullFrame.dmg`.
+1. Download `PullFrame-0.3.3.dmg`.
 2. Open the DMG file.
 3. Drag PullFrame into Applications.
 4. Open PullFrame from Applications.
 5. If macOS blocks it, right-click / Control-click PullFrame, then choose Open.
 
 PullFrame is not Apple-notarized yet, so macOS may show a first-open security warning. This warning should only need to be bypassed once per installed version.
+
+## Install on Windows
+
+1. Download `PullFrame-0.3.3.exe`.
+2. Open the EXE file.
+3. If Windows SmartScreen appears, choose **More info**, then **Run anyway** only if you downloaded it from this official release repository.
+4. Use PullFrame normally from the app window.
+
+The Windows build is available from the same GitHub Release as the macOS build.
 
 ## What PullFrame Does
 
@@ -36,7 +51,7 @@ PullFrame is not Apple-notarized yet, so macOS may show a first-open security wa
 
 ## Updates
 
-PullFrame checks this public releases repository for updates. Version 0.3.0 tries the GitHub Releases API first, then falls back to the normal latest-release page. If automatic checking is blocked by a user's network or Mac, PullFrame shows a manual release-page option.
+PullFrame checks this public releases repository for updates. Version 0.3.3 uses the GitHub Releases API first, then falls back to the normal latest-release page. If automatic checking is blocked by a user's network or device, PullFrame shows a manual release-page option.
 
 ## Bundled Tools
 
@@ -46,7 +61,7 @@ PullFrame includes:
 - FFmpeg
 - FFprobe
 
-These tools run locally on your Mac.
+These tools run locally on your computer.
 
 ## Support
 
@@ -64,4 +79,4 @@ https://pullframe.fat7i2017.com
 
 Use PullFrame only for content you own, have permission to download, or are legally allowed to save.
 
-PullFrame is not affiliated with yt-dlp, FFmpeg, YouTube, Instagram, TikTok, X/Twitter, Vimeo, Facebook, or any supported platform.
+PullFrame is not affiliated with yt-dlp, FFmpeg, YouTube, Instagram, TikTok, X/Twitter, Vimeo, Facebook, Apple, Microsoft, or any supported platform.
