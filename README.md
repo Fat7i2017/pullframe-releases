@@ -4,7 +4,7 @@ PullFrame is a polished desktop app for saving supported public media links thro
 
 Latest macOS version: **PullFrame 0.3.4**
 
-Current Windows beta: **PullFrame 0.3.3 Windows Beta**
+**PullFrame 0.3.4 is the only current release (Apple Silicon macOS).** Older Windows beta packages are outdated and retained for historical reference.
 
 ## Download
 
@@ -16,19 +16,17 @@ Current recommended release assets:
 
 ```text
 macOS latest:    PullFrame-0.3.4.dmg
-Windows beta:    PullFrame-0.3.3-Windows.zip
 ```
 
 Direct downloads:
 
 - macOS latest: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.4/PullFrame-0.3.4.dmg
-- Windows beta: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.3-windows-beta/PullFrame-0.3.3-Windows.zip
 
 ## Windows status
 
-The current confirmed working Windows build is **PullFrame 0.3.3 Windows Beta**.
+There is no current Windows release. **PullFrame 0.3.3 Windows Beta is outdated**; a Windows 0.3.4 build has not been released.
 
-Use this Windows ZIP for Windows. Extract it first, then run `PullFrame.exe` from the extracted folder.
+Older Windows packages remain available in the release history, with outdated labels. Do not use the macOS DMG on Windows.
 
 ## Install on macOS
 
@@ -40,7 +38,7 @@ Use this Windows ZIP for Windows. Extract it first, then run `PullFrame.exe` fro
 
 PullFrame is not Apple-notarized yet, so macOS may show a first-open security warning. This warning should only need to be bypassed once per installed version.
 
-## Install on Windows
+## Legacy Windows beta installation (outdated)
 
 1. Download `PullFrame-0.3.3-Windows.zip`.
 2. Extract the ZIP first.
@@ -64,7 +62,7 @@ If YouTube asks you to sign in, expand **YouTube sign-in** on Analyze and choose
 
 ## Updates
 
-PullFrame checks this public releases repository for updates. The current macOS public release is 0.3.4. The current confirmed working Windows beta is 0.3.3 Windows Beta.
+PullFrame checks this public releases repository for updates. The current macOS public release is 0.3.4. All older releases, including the Windows betas, are outdated and retained only as history.
 
 ## Bundled Tools
 
