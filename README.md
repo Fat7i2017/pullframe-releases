@@ -2,9 +2,9 @@
 
 PullFrame is a polished desktop app for saving supported public media links through a clean local workflow.
 
-Latest macOS version: **PullFrame 0.3.4**
+Latest macOS version: **PullFrame 0.3.5**
 
-**PullFrame 0.3.4 is the only current release (Apple Silicon macOS).** Older Windows beta packages are outdated and retained for historical reference.
+**PullFrame 0.3.5 is the only current release (Apple Silicon macOS).** Older Windows beta packages are outdated and retained for historical reference.
 
 ## Download
 
@@ -15,22 +15,22 @@ https://github.com/Fat7i2017/pullframe-releases/releases/latest
 Current recommended release assets:
 
 ```text
-macOS latest:    PullFrame-0.3.4.dmg
+macOS latest:    PullFrame-0.3.5.dmg
 ```
 
 Direct downloads:
 
-- macOS latest: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.4/PullFrame-0.3.4.dmg
+- macOS latest: https://github.com/Fat7i2017/pullframe-releases/releases/download/v0.3.5/PullFrame-0.3.5.dmg
 
 ## Windows status
 
-There is no current Windows release. **PullFrame 0.3.3 Windows Beta is outdated**; a Windows 0.3.4 build has not been released.
+There is no current Windows release. **PullFrame 0.3.3 Windows Beta is outdated**; a Windows 0.3.5 build has not been released.
 
 Older Windows packages remain available in the release history, with outdated labels. Do not use the macOS DMG on Windows.
 
 ## Install on macOS
 
-1. Download `PullFrame-0.3.4.dmg`.
+1. Download `PullFrame-0.3.5.dmg`.
 2. Open the DMG file.
 3. Drag PullFrame into Applications.
 4. Open PullFrame from Applications.
@@ -62,16 +62,16 @@ If YouTube asks you to sign in, expand **YouTube sign-in** on Analyze and choose
 
 ## Updates
 
-PullFrame checks this public releases repository for updates. The current macOS public release is 0.3.4. All older releases, including the Windows betas, are outdated and retained only as history.
+PullFrame checks this public releases repository for updates. The current macOS public release is 0.3.5. All older releases, including the Windows betas, are outdated and retained only as history.
 
 ## Bundled Tools
 
 PullFrame includes:
 
-- yt-dlp
-- FFmpeg
-- FFprobe
-- Deno (bundled JavaScript runtime for YouTube challenges)
+- yt-dlp 2026.10.26
+- FFmpeg 9.0.2
+- FFprobe 9.0.2
+- Deno 2.9.8 (bundled JavaScript runtime for YouTube challenges)
 
 These tools run locally on your computer.
 
